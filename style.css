@@ -1,0 +1,223 @@
+#basic {
+  position: absolute;
+  width: 428px;
+  height: 767px;
+  left: 0px;
+  top: 0px;
+  background: #81bff9;
+  align-content: center;
+}
+#line {
+  border-left: 13px solid #1f4e95;
+  height: 767px;
+  position: absolute;
+  left: 428px;
+  top: 0%;
+}
+#others {
+  position: absolute;
+  left: 440px;
+  width: 1000px;
+  height: 767px;
+  background: #d6ebff;
+}
+#name {
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  position: absolute;
+  left: 20px;
+}
+#student {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 30px;
+  position: absolute;
+  left: 20px;
+  top: 40px;
+  color: #595959;
+}
+#profilepic {
+  position: absolute;
+  left: 114px;
+  top: 151px;
+}
+#basicinfo {
+  position: absolute;
+  top: 350px;
+  left: 20px;
+  font-family: Times New Roman;
+  font-size: 24px;
+  color: #002762;
+}
+
+#contact {
+  position: absolute;
+  width: 173px;
+  top: 150px;
+  font-family: Times New Roman;
+  font-size: 24px;
+  color: #002762;
+}
+#table1 {
+  position: absolute;
+  top: 410px;
+  left: 20px;
+}
+#table2 {
+  position: absolute;
+  top: 210px;
+}
+.box {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  text-overflow: initial;
+  padding: 4%;
+  border: 0px solid black;
+  text-align: center;
+  background: #e0e0e0;
+  border-radius: 16px;
+  word-wrap: normal;
+}
+.heading {
+  font-family: Times New Roman;
+  font-weight: bold;
+  font-size: 26px;
+  color: #434b8e;
+  position: absolute;
+  left: 20px;
+}
+.sentence {
+  position: absolute;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  color: #000000;
+  position: absolute;
+  left: 20px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: #434b8e;
+  position: absolute;
+  align-content: center;
+  width: 10%;
+
+  left: 400px;
+}
+#hrabout {
+  top: 130px;
+}
+#about {
+  left: 20px;
+}
+#aboutS {
+  top: 40px;
+  right: 20px;
+}
+#education {
+  top: 130px;
+}
+#educationS {
+  top: 170px;
+}
+.institute {
+  position: absolute;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #796a6a;
+  left: 20px;
+}
+#sethu {
+  position: absolute;
+  top: 200px;
+}
+.year {
+  position: absolute;
+
+  font-family: Open Sans;
+  font-weight: lighter;
+  font-size: 20px;
+  text-align: center;
+  color: #000000;
+}
+#Ysethu {
+  left: 830px;
+  top: 180px;
+}
+#hredu {
+  top: 260px;
+}
+#Experience {
+  top: 270px;
+}
+
+#educationkalvi {
+  top: 310px;
+}
+#kalvi {
+  top: 340px;
+}
+#Ykalvi {
+  left: 830px;
+  top: 320px;
+}
+
+#educationpython {
+  top: 380px;
+}
+#python {
+  top: 410px;
+}
+#Ypython {
+  left: 830px;
+  top: 380px;
+}
+#hrexp {
+  top: 480px;
+}
+#skill {
+  top: 500px;
+}
+.skills {
+  position: absolute;
+  left: 50px;
+  top: 600px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  color: #000000;
+}
+svg {
+  position: absolute;
+  left: 20px;
+}
+#svgandroid {
+  top: 570px;
+}
+#svgweb {
+  top: 620px;
+}
+#svgcloud {
+  top: 670px;
+}
+/* skill */
+#android {
+  top: 550px;
+}
+#web {
+  top: 600px;
+}
+#cloud {
+  top: 650px;
+}
